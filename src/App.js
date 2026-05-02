@@ -5,6 +5,7 @@ import Projects from './Projects';
 import Contact from './Contact';
 import CryptoTracker from './CryptoTracker';
 import Weather from './Weather';
+import Notes from './Notes';
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
         <Projects />
         <CryptoTracker />
         <Weather />
+        <Notes />
         <Contact />
       </div>
     </div>
