@@ -7,6 +7,7 @@ import CryptoTracker from './CryptoTracker';
 import Weather from './Weather';
 import Notes from './Notes';
 import BMI from './BMI';
+import Timer from './Timer';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
         <Weather />
         <Notes />
         <BMI />
+        <Timer />
         <Contact />
       </div>
     </div>
