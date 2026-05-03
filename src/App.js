@@ -9,6 +9,8 @@ import Notes from './Notes';
 import BMI from './BMI';
 import Timer from './Timer';
 import ColorPalette from './ColorPalette';
+import Currency from './Currency';
+import JokeGenerator from './JokeGenerator';
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
         <BMI />
         <Timer />
         <ColorPalette />
+        <Currency />
+        <JokeGenerator />
         <Contact />
       </div>
     </div>
