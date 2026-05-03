@@ -11,6 +11,7 @@ import Timer from './Timer';
 import ColorPalette from './ColorPalette';
 import Currency from './Currency';
 import JokeGenerator from './JokeGenerator';
+import Pomodoro from './Pomodoro';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
         <ColorPalette />
         <Currency />
         <JokeGenerator />
+        <Pomodoro />
         <Contact />
       </div>
     </div>
