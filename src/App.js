@@ -8,6 +8,7 @@ import Weather from './Weather';
 import Notes from './Notes';
 import BMI from './BMI';
 import Timer from './Timer';
+import ColorPalette from './ColorPalette';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Notes />
         <BMI />
         <Timer />
+        <ColorPalette />
         <Contact />
       </div>
     </div>
